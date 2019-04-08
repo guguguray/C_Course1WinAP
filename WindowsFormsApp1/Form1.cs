@@ -49,7 +49,7 @@ namespace WindowsFormsApp1
             // 取int型態的最大最小值
             int minValue = int.MinValue;
             int maxValue = int.MaxValue;
-            MessageBox.Show($"顯示 int 最小最大值，最小:{minValue}  最大:{maxValue}", "最大最小值顯示對話框");
+            MessageBox.Show($"顯示 int 最小最大值， 最小:{minValue}  最大:{maxValue}", "最大最小值顯示對話框");
         }
 
         private void button3_Click(object sender, EventArgs e)
